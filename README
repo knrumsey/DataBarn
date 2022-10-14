@@ -1,9 +1,6 @@
-Data Sets include
+Goal is to make this a valid R data package at some point. 
+For now it just holds a few data-sets that I find interesting
 
-NBA Shot data
-
-IMDB Dataset
-
-Slosh Data
-
-FaIR Climate Model Dataset
+    - NBA Shot data
+    - IMDB Dataset
+    - FaIR Climate Model Dataset
